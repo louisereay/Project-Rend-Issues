@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 🔒 Security Issue
+    url: https://github.com/louisereay/Project-Rend-Issues/security/policy
+    about: Please report security vulnerabilities privately
+  - name: 💬 Community Discussions
+    url: https://github.com/louisereay/Project-Rend-Issues/discussions
+    about: Ask questions and discuss with the community
+  - name: 📚 Documentation
+    url: https://github.com/louisereay/Project-Rend-Issues/wiki
+    about: Check our wiki for guides and documentation
